@@ -1,0 +1,522 @@
+﻿{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1664991493403096, "dur": 74999, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493404256, "dur": 12624, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493417007, "dur": 51053, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493468077, "dur": 10018, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493653793, "dur": 108234, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493653812, "dur": 21389, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493675203, "dur": 77022, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991493752226, "dur": 9801, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991496399719, "dur": 228338, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991496399931, "dur": 6127, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991496406059, "dur": 32876, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991496439030, "dur": 175635, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991496614667, "dur": 13389, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991566868786, "dur": 57122, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991566868803, "dur": 770, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991566869575, "dur": 46684, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991566916260, "dur": 9647, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991567089101, "dur": 101699, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991567089118, "dur": 19919, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991567109040, "dur": 72218, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991567181260, "dur": 9540, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991569006404, "dur": 2528544, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991569006425, "dur": 13601, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991569020028, "dur": 32343, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991569052373, "dur": 2358385, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991571410760, "dur": 110639, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991571521400, "dur": 13545, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623093597, "dur": 71646, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623093614, "dur": 11106, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623104721, "dur": 50235, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623154958, "dur": 10285, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623330079, "dur": 103984, "ph": "X", "name": "Build ScriptAssembliesAndTypeDB", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623330097, "dur": 20945, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623351045, "dur": 73243, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991623424289, "dur": 9774, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625786106, "dur": 73110, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625786117, "dur": 9962, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625796081, "dur": 50528, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625846611, "dur": 12605, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625860054, "dur": 203, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1664991625822405, "dur":1702, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625824115, "dur":100, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625824245, "dur":484, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625824765, "dur":554, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625825320, "dur":13316, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625838638, "dur":297, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625839074, "dur":1521, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1664991625824963, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625825325, "dur":5696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831037, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831023, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831191, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831311, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831309, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831420, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831520, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831519, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831658, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831783, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625831782, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832032, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832139, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832138, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832246, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832336, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832334, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832423, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832495, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832494, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832654, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832766, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832764, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832862, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832942, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625832940, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625833033, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625833123, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625833121, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1664991625833207, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1664991625833314, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1664991625836970, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1664991625838224, "dur":410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625824993, "dur":335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625825328, "dur":5694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831023, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831175, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831275, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831367, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831506, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831496, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831673, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831780, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625831778, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832057, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832151, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832149, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832259, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832359, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832356, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832458, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832554, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832552, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832652, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832772, "dur":207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832770, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625832980, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625833070, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625833068, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1664991625833176, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1664991625833274, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1664991625834229, "dur":2888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1664991625837169, "dur":1466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625825017, "dur":314, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625825332, "dur":5710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831063, "dur":261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831043, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831326, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831444, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831442, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831535, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831651, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831649, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831762, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831865, "dur":1308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625831863, "dur":1311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1664991625833174, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625833281, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1664991625833281, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1664991625833466, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1664991625833523, "dur":5126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625825042, "dur":296, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625825338, "dur":5681, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831021, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831194, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831312, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831300, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831431, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831524, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831522, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831639, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831746, "dur":274, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625831744, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832021, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832114, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832112, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832371, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832484, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832482, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832652, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832776, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832774, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832889, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832962, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625832960, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625833056, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625833152, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625833150, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1664991625833229, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1664991625833314, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1664991625836489, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1664991625837848, "dur":806, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625825067, "dur":275, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625825342, "dur":5693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831038, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831229, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831351, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831341, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831500, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831616, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831615, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831703, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831818, "dur":862, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625831816, "dur":864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832680, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832783, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832782, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832919, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832994, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625832993, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833082, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833174, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833172, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833275, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833361, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833360, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833565, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1664991625833639, "dur":5001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625825096, "dur":249, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625825346, "dur":5672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831055, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831026, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831208, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831333, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831489, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831605, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831603, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831692, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831791, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625831790, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832041, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832136, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832134, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832261, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832359, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832357, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832462, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832556, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832555, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832653, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832778, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832777, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625832969, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625833060, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625833058, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1664991625833168, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1664991625833270, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1664991625834782, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1664991625837371, "dur":1277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625825119, "dur":231, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625825350, "dur":5680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831030, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831383, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831500, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831492, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831695, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831819, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625831817, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832089, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832190, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832188, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832278, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832376, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832374, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832481, "dur":165, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832648, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832646, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832773, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832868, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832867, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625832955, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833051, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833049, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833165, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833260, "dur":185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833259, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833446, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1664991625833501, "dur":5131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625825146, "dur":206, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625825353, "dur":5685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831038, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831209, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831343, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831333, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm.exe" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831497, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831620, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831618, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831714, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831806, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625831805, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832034, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832139, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832137, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832284, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832374, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832371, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832472, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832568, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832567, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832646, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832783, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625832782, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625833024, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625833113, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625833112, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1664991625833205, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1664991625833307, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1664991625837432, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1664991625825168, "dur":188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625825356, "dur":5671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831028, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831183, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831283, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831381, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831510, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831498, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831635, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831744, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831741, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625831999, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832091, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832090, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832463, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832562, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832560, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832646, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832769, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832767, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625832927, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833011, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833009, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833105, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833197, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833195, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833298, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1664991625833395, "dur":5238, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625825194, "dur":166, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625825360, "dur":5674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831034, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831210, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831346, "dur":152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831335, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831500, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831640, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831639, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831760, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831869, "dur":635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625831867, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832505, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832657, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832656, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832773, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832873, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832872, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625832960, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625833060, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625833058, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1664991625833168, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1664991625833270, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1664991625834416, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1664991625837086, "dur":1553, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625825213, "dur":151, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625825365, "dur":5667, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831049, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831034, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831198, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831310, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831307, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831422, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831526, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831524, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831735, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831837, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625831835, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832091, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832182, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832180, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832274, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832370, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832367, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832476, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832573, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832571, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832655, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832784, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832782, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625832956, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625833055, "dur":132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625833053, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1664991625833188, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1664991625833293, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1664991625835203, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1664991625837576, "dur":1062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625825233, "dur":135, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625825369, "dur":5667, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831072, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831054, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831330, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831462, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831460, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831555, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831654, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\PackageCache\\com.unity.visualscripting@1.7.8\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831653, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831770, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831862, "dur":271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625831860, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832134, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832232, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832231, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832311, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832381, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832379, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832478, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832645, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832643, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832757, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832851, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832850, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625832930, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833018, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833017, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833116, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833199, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833197, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833299, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1664991625833395, "dur":5239, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625825253, "dur":119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625825373, "dur":5655, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831048, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831030, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831255, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831362, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831361, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831506, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831630, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831628, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831742, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831840, "dur":560, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625831839, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832401, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832485, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832483, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832661, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832784, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832781, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832877, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832949, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625832947, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625833041, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625833146, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625833145, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1664991625833225, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1664991625833311, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1664991625835628, "dur":1267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1664991625836952, "dur":1692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625825271, "dur":105, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625825376, "dur":5648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831066, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831034, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831261, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831348, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831347, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831462, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831530, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831529, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831641, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831751, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831749, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625831976, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832053, "dur":588, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832051, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832642, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832757, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832756, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832851, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832931, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625832930, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625833016, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625833116, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625833114, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1664991625833206, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1664991625833309, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1664991625836071, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1664991625837416, "dur":1225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625825300, "dur":80, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625825380, "dur":5645, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831033, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831201, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831320, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831308, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831423, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831528, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831526, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831652, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831767, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625831765, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832026, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832129, "dur":330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832121, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832460, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832555, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832553, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832655, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832777, "dur":234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625832776, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833012, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833102, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833100, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833189, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833294, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833293, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833391, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1664991625833448, "dur":5194, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625825321, "dur":5692, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831024, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831116, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831211, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831329, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831446, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831444, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831529, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831655, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.0.2\\Runtime\\AOT\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831653, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831779, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831895, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\conka\\Desktop\\GitFork\\GameEngineMidtem\\GameEngineMidterm\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625831893, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832141, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832255, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832253, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832361, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832458, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832456, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832572, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832649, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832647, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832779, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832876, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832875, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625832954, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833050, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833048, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833161, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833245, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.1.16f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833244, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/conka/Desktop/GitFork/GameEngineMidtem/GameEngineMidterm_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833322, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1664991625833408, "dur":5223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1664991625842026, "dur":1360, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1664991625860373, "dur": 985, "ph": "X", "name": "backend_profiler0.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1664991625860044, "dur": 1342, "ph": "X", "name": "Write chrome-trace events", "args": {} },
