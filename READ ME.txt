@@ -1,0 +1,5 @@
+I attempted the option to add a health bar and change the score with the remaining health.
+ran out of time.
+focused to much on setting up the base environment of the game and getting controls to work.
+
+I did add another input command to remove lives from yourself by pressing 'k'.
